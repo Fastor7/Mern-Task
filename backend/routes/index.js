@@ -7,4 +7,3 @@ router.use("/*",auth);
 //add fetch Restaurant route
 
 module.exports = router;
-
